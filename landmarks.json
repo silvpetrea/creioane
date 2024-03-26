@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Cetatea de Scaun a Sucevei",
+        "latitude": 47.644322,
+        "longitude": 26.272224,
+        "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney_World",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cinderella_Castle.jpg",
+        "attribution": "Katie Rommel-Esham [CC BY-SA 3.0 us (https://creativecommons.org/licenses/by-sa/3.0/us/deed.en)]",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FCinderella_Castle.jpg?1548084211644"
+    },
+    {
+        "name": "the Statue of Liberty",
+        "latitude": 40.689247,
+        "longitude": -74.044502,
+        "wikipedia": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Statue-de-la-liberte-new-york.jpg",
+        "attribution": "featherboa [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) or Public domain], via Wikimedia Commons",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FStatue-de-la-liberte-new-york.jpg?1548084210940"
+    },
+    {
+        "name": "the White House",
+        "latitude": 38.897675,
+        "longitude": -77.036530,
+        "wikipedia": "https://en.wikipedia.org/wiki/White_House",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/5/57/White_House_06.02.08.jpg",
+        "attribution": "Юкатан [Public domain], from Wikimedia Commons",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FWhite_House_06.02.08.jpg?1548084212089"
+    },
+    {
+        "name": "Alcatraz Island",
+        "latitude": 37.827295,
+        "longitude": -122.422259,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alcatraz_Island",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alcatraz-Pier39.JPG",
+        "attribution": "Abrahami [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FAlcatraz-Pier39.JPG?1548084213733"
+    },
+    {
+        "name": "the Empire State Building",
+        "latitude": 40.748440,
+        "longitude": -73.985664,
+        "wikipedia": "https://en.wikipedia.org/wiki/Empire_State_Building",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Empire_State_Building-_Day_into_Night_%2821637448828%29.jpg",
+        "attribution": "John Cunniff from New York, NY, USA [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FEmpire_State_Building-_Day_into_Night_(21637448828).jpg?1548084212158"
+    },
+    {
+        "name": "the Grand Ole Opry",
+        "latitude": 34.308769,
+        "longitude": -88.805717,
+        "wikipedia": "https://en.wikipedia.org/wiki/Grand_Ole_Opry",
+        "photo_original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Grand_Ole_Opry_House_%28entrance_sign%29.jpg",
+        "attribution": "Abbie Myers [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons",
+        "photo": "https://cdn.glitch.com/06defb32-7e1a-4049-bc0a-85bd5e49edb0%2FGrand_Ole_Opry_House_(entrance_sign).jpg?1548084212765"
+    },
